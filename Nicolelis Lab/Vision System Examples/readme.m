@@ -6,7 +6,7 @@
 %% VideoExample.m
 % This script creates a video play object - basically it plays a video.  It
 % is a good introduction to the system object framework, which is somewhat
-% remvoed from general MATLAB functionality.
+% removed from general MATLAB functionality.
 
 %% TrainAStopSignDetectorExample.m
 % This script serves as MATLABs example for the Cascade Object Detector

@@ -236,12 +236,12 @@
 %                               
 %% Additional Notes
 
-% Code by Eric Thomson (thomson dot eric : gmail)
+% Code by Chris Penny and Eric Thomson: Nicolelis Lab
 % Adapted from Code by Per Petersen, Romulo Fuentes and Amol Yadav: Nicolelis Lab
 
 % Extra Notes on Features
 % 
-% ROI: Functionality producing a binary mask has been added to select a
+% ROI (Region of Interest): Functionality producing a binary mask has been added to select a
 % region of interest.  This is particularly important during socialization 
 % analysis as two rats are captured on video, but only one should be tracked.
 % ROI shapes include an ellipse, rectangle, and an annulus.  Users are promted
